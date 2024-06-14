@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Arial Narrow';
+}
+
+body{
+    background-color: rgb(194, 190, 190);
+}
+
+.navbar{
+    background-color: rgb(255, 121, 255);
+    height: 50px;
+    margin: 20px;
+    padding-top: 20px;
+}
+
+.footer{
+    height: 50px;
+    margin: 20px;
+    background-color: white;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.headlinks{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#headsearch{
+    height: 25px; 
+    width: 200px;
+    text-align: centre;
+}
+
+#headbutton{
+    height: 25px; 
+    width: 70px;
+    color: white; 
+    background-color: black;
+}
+
+.colcontainer{
+    display: flex;
+    gap: 20px;
+    margin-left: 20px;
+}
+
+.pagebody{
+    width: 80%;
+    background-color: white;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.related{
+    padding-top: 20px;
+    padding-left: 10px;
+    width: 16%;
+    background-color: rgb(255, 121, 255);
+    
+}
+
+.list{
+    margin-left: 40px;
+}
+
+.sublist{
+    margin-bottom: 10px;
+}
+
+.main_heading{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.subheading{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;   
+}
+
